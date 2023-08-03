@@ -1,0 +1,21 @@
+.image-scroll {
+    display: flex;
+    background-color: #272729;
+}
+
+.buttons {
+    margin: 10% 1% 10% 1%;
+}
+
+.image-block {
+    overflow: hidden;
+    white-space: nowrap;
+    
+}
+
+.image {
+    position: relative;
+    padding: 25px;
+    max-height: 500px;
+    left: 25px;
+}
