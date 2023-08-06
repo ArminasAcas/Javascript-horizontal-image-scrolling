@@ -1,6 +1,6 @@
 function setUpImageScroll() {
-    let buttons = document.querySelectorAll(".buttons");
-    let images = document.querySelectorAll(".image");
+    let buttons = document.querySelectorAll(".button");
+    let images = document.querySelectorAll(".image-block__images");
     if (!buttons || !images) return;
 
     preloadImages(images);

@@ -1,0 +1,14 @@
+.image-block {
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 25px 0 25px 0;
+    border-radius: 15%;
+}
+
+.image-block__images {
+    position: relative;
+    max-height: 500px;
+    padding: 0 10px 0 10px;
+    border-radius: 10%;
+    
+}
